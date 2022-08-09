@@ -1,17 +1,16 @@
 ### Hi there 👋
 
 Sou o Gabriel Simplício, e estou estudando desenvolvimento de sistemas focado atualmente em NodeJS.
-<!--
-**gabrielsimplicio00/gabrielsimplicio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 Atualmente não estou envolvido em nenhum trabalho ou projeto para nenhum tipo de empresa
+- 🌱 Estou aprendendo NodeJS
+- 👯 Procuro colaborar com projetos JavaScript/NodeJS
+- 🤔 Preciso de ajuda com um projeto pessoal, voltado para APIs REST
+- 💬 Perguntas são bem vindas!
+- 📫 Como me contactar: gaasimplicio@gmail.com / www.linkedin.com/in/gabriel-ferreira-2755b6164
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: Já fui perseguido por 3 cachorros em momentos diferentes da minha vida por motivos aleatórios
+
