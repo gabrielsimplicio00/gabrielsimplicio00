@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Sou o Gabriel Simplício, e estou estudando desenvolvimento de sistemas focado atualmente em NodeJS.
 <!--
 **gabrielsimplicio00/gabrielsimplicio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
