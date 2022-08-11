@@ -6,11 +6,11 @@ Sou o Gabriel Simplício, e estou estudando desenvolvimento de sistemas focado a
 
 
 - 🔭 Atualmente não estou envolvido em nenhum trabalho ou projeto para nenhum tipo de empresa
-- 🌱 Estou aprendendo NodeJS
+- 🌱 Estou aprendendo NodeJS e me aperfeiçoando em html e css
 - 👯 Procuro colaborar com projetos JavaScript/NodeJS
 - 🤔 Preciso de ajuda com um projeto pessoal, voltado para APIs REST
 - 💬 Perguntas são bem vindas!
 - 📫 Como me contactar: gaasimplicio@gmail.com / www.linkedin.com/in/gabriel-ferreira-2755b6164
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Já fui perseguido por 3 cachorros em momentos diferentes da minha vida por motivos aleatórios
+- ⚡ Fun fact: Já desci na parada de ônibus errada e tive que andar 5km porque não sabia pegar ônibus na região que desci
 
