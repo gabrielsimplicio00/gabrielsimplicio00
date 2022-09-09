@@ -24,5 +24,5 @@
 <hr>
 
 <h3 align="left">My GitHub stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsimplicio00&show_icons=true&locale=en" alt="gabrielsimplicio00" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielsimplicio00&show_icons=true&locale=en" alt="gabrielsimplicio00" /></p>
 
