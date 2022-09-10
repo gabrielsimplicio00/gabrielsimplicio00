@@ -20,12 +20,10 @@
 
 <div style="display:flex;flex-flow:column wrap;">
   <div style="width:100%;flex-grow:1">
-    <h3 align="left">Most used languages:</h3>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsimplicio00&show_icons=true&locale=en&layout=compact"        alt="gabrielsimplicio00" /></p>
   </div>
 
   <div style="width:100%;flex-grow:1">
-    <h3 align="left" style="width:100%">My GitHub stats:</h3>
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielsimplicio00&show_icons=true&locale=en" alt="gabrielsimplicio00"  /></p>
   </div>
 </div>
