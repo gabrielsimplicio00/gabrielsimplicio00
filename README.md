@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gabrielsimplicio00?tab=repositories](https://github.com/gabrielsimplicio00?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/gabrielsimplicio00?tab=repositories)
 
 - 💬 Ask me about **Javascript, Node.js, HTML, CSS**
 
