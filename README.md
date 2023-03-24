@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">A passionate backend web developer from Brasil</h3>
+<h3 align="center">A passionate web developer from Brasil</h3>
 
 - 🔭 I’m currently working on [a SQL API](https://sql-crud-api.onrender.com)
 
