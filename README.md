@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [a SQL API](https://sql-crud-api.onrender.com)
 
-- 🌱 I’m currently learning **Node.JS and Python**
+- 🌱 I’m currently learning **Node.JS and Java**
 
 - 👨‍💻 All of my most important projects are available at [https://gabrielsimplicio00.github.io/portfolio/](https://gabrielsimplicio00.github.io/portfolio/)
 
-- 💬 Ask me about **Node.JS, Python, React or Vue**
+- 💬 Ask me about **Node.JS, Python, Java, React or Vue**
 
 - 📫 How to reach me **gaasimplicio@gmail.com | https://www.linkedin.com/in/gabriel-ferreira-2755b6164/ | https://www.instagram.com/gaasimplicio/**
 
